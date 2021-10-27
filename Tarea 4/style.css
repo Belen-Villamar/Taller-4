@@ -1,0 +1,111 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    }
+    body{
+        background-color: rgb(80, 123, 158);
+        font-family: 'Times New Roman', Times, serif;
+        margin-bottom: 20px;
+        color: rgb(0, 0, 0);
+        font-weight: 70pxs;  
+     }
+
+     h1{
+         text-align: left;
+         margin-left: 640px;
+     }
+
+
+     .primera{
+         background-color: rgba(110, 110, 110, 0.884);
+         color: black;
+         margin: auto;     
+         width: 500px; 
+         padding: 1em;  
+     }
+
+     .segundo{
+        background-color: rgba(110, 110, 110, 0.884);
+        color: rgb(0, 0, 0);
+        margin: auto;     
+        width: 500px; 
+        padding: 1em;  
+    }
+
+    h2{
+        color: rgb(0, 0, 0);
+        text-align: center;
+        padding: 10px;
+    }
+
+    .bot1{ 
+
+        background: #a9a9b1d7;
+        margin-left: 220px;
+        width: 100px;
+        height: 40px;
+        font-size: 15px;
+        border: solid 2px rgb(0, 0, 0);
+        border-radius: 20px;
+        position: relative;
+        top: -20px;
+     }
+           
+     .bot2{ 
+
+        background: #a9a9b1d7;
+        margin-left: 220px;
+        width: 100px;
+        height: 40px;
+        font-size: 15px;
+        border: solid 2px rgb(0, 0, 0);
+        border-radius: 20px;
+    }
+
+    .nota1{
+        margin-left: 10px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        width: 300px;
+        height: 30px;
+        border: 2px solid #000000;
+        border-radius: 5px;
+        }
+
+        .nota2{
+            margin-left: 155px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            width: 200px;
+            height: 30px;
+            border: 2px solid #000000;
+            }
+
+.prime { 
+    text-align: center;
+}
+
+.segun {
+    text-align: center;
+}
+
+.terc{
+    text-align: center;
+}
+
+.cuart{
+    text-align: center;
+}
+
+.quint{
+    text-align: center;
+}
+
+            .grid-container {
+                display: grid;
+                grid-template-columns: auto auto auto;
+                padding: 0px;
+                margin-top: 0.1px;
+                }
+            
+            
